@@ -1,6 +1,6 @@
 {
-  "name": "@capacitor-community/in-app-review-5",
-  "version": "5.0.0",
+  "name": "@capacitor-community/in-app-review",
+  "version": "5.0.1",
   "description": "Lets you prompt users to submit app store ratings and reviews without leaving your app - using platform native dialogs.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorCommunityInAppReview5.podspec"
+    "CapacitorCommunityInAppReview.podspec"
   ],
   "author": "",
   "license": "MIT",
